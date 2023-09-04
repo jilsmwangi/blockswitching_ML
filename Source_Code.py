@@ -1,3 +1,5 @@
+#pip install cleverhans
+#pip install gdown
 import re
 import io
 import cv2
